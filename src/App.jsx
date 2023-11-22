@@ -76,7 +76,6 @@ function App() {
 
 
           <footer>
-
               <Tile
                   title="The brand"
                   description="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium asperiores, assumenda blanditiis consectetur dignissimos distinctio dolores enim facilis fuga illum maiores maxime molestiae officia praesentium repellat reprehenderit suscipit veritatis voluptatibus!"
@@ -84,20 +83,18 @@ function App() {
 
               <Tile
                   imageUrl="src/assets/brand.png"
-                  imgAlt="The trendy bag"
+                  imgAlt="Brand picture"
               />
 
               <Tile
                   imageUrl="src/assets/our_story.png"
-                  imgAlt="The trendy bag"
+                  imgAlt="Our story image"
               />
 
               <Tile
                   title="Our Story"
                   description="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium asperiores, assumenda blanditiis consectetur dignissimos distinctio dolores enim facilis fuga illum maiores maxime molestiae officia praesentium repellat reprehenderit suscipit veritatis voluptatibus!"
               />
-
-
           </footer>
 
 
