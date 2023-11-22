@@ -101,33 +101,6 @@ function App() {
 
 
 
-              {/*<section>*/}
-              {/*    <h2>The Brand</h2>*/}
-              {/*    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium asperiores, assumenda*/}
-              {/*        blanditiis consectetur dignissimos distinctio dolores enim facilis fuga illum maiores maxime*/}
-              {/*        molestiae officia praesentium repellat reprehenderit suscipit veritatis voluptatibus!</p>*/}
-              {/*</section>*/}
-
-
-
-              {/*<section>*/}
-              {/*    <img src={"src/assets/brand.png"}/>*/}
-              {/*</section>*/}
-              {/*<section>*/}
-              {/*    <img src={"src/assets/our_story.png"}/>*/}
-
-              {/*</section>*/}
-              {/*<section>*/}
-              {/*    <h2>our story</h2>*/}
-              {/*    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium asperiores, assumenda*/}
-              {/*        blanditiis consectetur dignissimos distinctio dolores enim facilis fuga illum maiores maxime*/}
-              {/*        molestiae officia praesentium repellat reprehenderit suscipit veritatis voluptatibus!</p>*/}
-              {/*</section>*/}
-
-
-
-
-
         </>
   );
 }
